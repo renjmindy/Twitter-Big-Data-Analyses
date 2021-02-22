@@ -15,7 +15,7 @@ We would like to explore questions about a popular Korean pop (“Kpop”) artis
 
 -  Behave as the project manager to set up the project scope for each individual involved
 -  Play an integral role to leverage team members' efforts 
--  Experiment curl commands used to request specific tweets containing necessary information using Twitter API
+-  Experiment cURL commands used to request specific tweets containing necessary information using Twitter API
 -  Make good use of Spark/Scala to collect information from tweets using Twitter API and Spark Streaming 
 -  Develop SparkSQL codes used to create and execute queries related to our questions 
 -  Analyze twitter data to answer questions through data science technologies and frameworks  
