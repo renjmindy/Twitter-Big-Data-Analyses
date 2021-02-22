@@ -25,7 +25,7 @@ object Runner {
         if(args.length != 3) {
             println("Options:")
             println("tweetSparkSql [input file] [output folder]")
-            println("tweetMoreSparkSql [input folder/input file] [output folder]")
+            println("tweetMoreSparkSql [input file] [output folder]")
             println("json2csv [input folder/input file] [output folder]")
             System.exit(1)
         }
