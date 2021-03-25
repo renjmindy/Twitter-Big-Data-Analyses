@@ -1,9 +1,12 @@
 # Project-2 Group 3 Twitter Big Data Analysis
 
 ## Twitter data analysis proposal
-We would like to explore questions about a popular Korean pop (“Kpop”) artist, BTS from Twitter, while also looking at the other Kpop groups and some information on other pop in America
+
+Project 2 is a Twitter Data Analysis project where we use the Twitter API along with big data tools to analyze the Twitter feed. Our group analyzed tweets related to a popular Korean pop (“K-pop”) artist, BTS, on Twitter, while also looking at the other popular K-pop artists and groups on Twitter. We provided a final presentation of overall results and analysis with a simple slide deck. The questions follow: What are some of the other hashtags that are being used with #BTS? What is the average amount of likes that a common BTS post receives? What are common words used with the BTS hashtag? How does it vary with time? How is Kpop being compared/linked to American pop? Which other Kpop artists are famous in the americas? Which artist is the most trending on Twitter? Which states and countries tweet the most about Kpop? How many languages are tweeting about BTS? What is the distribution of languages tweeting about BTS? How is #BTS distributed globally? What countries would you suggest BTS to hold a series of global concert tours in 2022? What languages would you recommend BTS to speak in their global concert tours?
 
 ## Specific Questions to Answer
+
+We would like to explore questions about a popular Korean pop (“Kpop”) artist, BTS from Twitter, while also looking at the other Kpop groups and some information on other pop in America
 
 - **Study how #BTS is distributed globally in order to answer two business questions as follows: (Mindy Jen)**
 
