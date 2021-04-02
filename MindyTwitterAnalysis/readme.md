@@ -16,19 +16,19 @@ We would like to explore questions about a popular Korean pop (“Kpop”) artis
 
 ## Resposibilities
 
--  Behave as the project manager to set up the project scope for each individual involved
--  Play an integral role to leverage team members' efforts 
--  Experiment cURL commands used to request specific tweets containing necessary information using Twitter API
--  Make good use of Spark/Scala to collect information from tweets using Twitter API and Spark Streaming 
--  Develop SparkSQL codes used to create and execute queries related to our questions 
--  Analyze twitter data to answer questions through data science technologies and frameworks  
--  Create Google slides for the presentation 
--  Practice Presentation 
+-  Behaved as the project manager to set up the project scope for each individual involved
+-  Played an integral role to leverage team members' efforts 
+-  Experimented cURL commands used to request specific tweets containing necessary information using Twitter API
+-  Made good use of Spark/Scala to collect information from tweets using Twitter API, Spark Streaming and SparkSQL 
+-  Developed SparkSQL codes used to create and execute queries related to our questions 
+-  Analyzed twitter data to answer questions through data science technologies and frameworks  
+-  Created Google slides for the presentation 
+-  Practiced Presentation 
 
 ## Technologies
 
 - Apache Spark
-- Spark SQL
+- Spark Streaming/SparkSQL
 - YARN
 - HDFS and/or S3
 - Scala 2.12.10
@@ -41,8 +41,8 @@ We would like to explore questions about a popular Korean pop (“Kpop”) artis
 - [jupyter notebook](https://www.anaconda.com/products/individual)
 - PySpark (optional for project 2)
 - Docker (optional for project 2)
-- Scikit-learn (optional for project 2)
-- Tensorflow or Pytorch (optional for project 2)
+- Scikit-Learn (optional for project 2)
+- Tensorflow or PyTorch (optional for project 2)
 - Git + GitHub
 
 ## Twitter Data Query 
