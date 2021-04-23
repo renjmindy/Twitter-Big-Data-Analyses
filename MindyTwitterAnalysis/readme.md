@@ -42,7 +42,7 @@ We would like to explore questions about a popular Korean pop (“Kpop”) artis
 - PySpark (optional for project 2)
 - Docker (optional for project 2)
 - Scikit-Learn (optional for project 2)
-- Tensorflow or PyTorch (optional for project 2)
+- TensorFlow or PyTorch (optional for project 2)
 - Git + GitHub
 
 ## Twitter Data Query 
